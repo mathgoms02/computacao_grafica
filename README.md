@@ -46,17 +46,6 @@ Este repositório reúne os estudos e experimentos práticos desenvolvidos na di
    ```
 
 
-
-4. Inicie o Jupyter Notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
-
-
-5. Navegue até o notebook desejado e execute as células conforme as instruções.
-
 ## 📚 Conteúdos Abordados
 
 * Representação e manipulação de imagens digitais.
